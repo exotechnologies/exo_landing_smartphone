@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="format-detection" content="telephone=no">
+    <title itemprop="name">Smartphone EXO Spanky - Se Diferente, Atrévete a Spanky</title>
+    <link rel="shortcut icon" href="http://smartphone.exo.com.ar/wp-content/uploads/2015/11/favicon.ico"  />
+    <link href='style.css' rel='stylesheet' type='text/css'>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js?hl=es-419'></script>
+    <script src="scripts/modules.js"></script>
+
+
+    <!-- IMPORT GOOGLE FONTS -->
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- IMPORT FONT AWESOME -->
+
+    <script src="https://use.fontawesome.com/7f657b99b7.js"></script>
+
+
+    <!-- LIGHTBOX -->
+
+    <link href="scripts/lightbox/dist/css/lightbox.min.css" rel="stylesheet">
+
+
+    <!-- bxSlider Javascript file -->
+    <script src="scripts/bxslider/js/jquery.bxslider.js"></script>
+    <script src="scripts/bxslider/vendor/jquery.easing.1.3.js"></script>
+    <script src="scripts/bxslider/vendor/jquery.fitvids.js"></script>
+
+    <!-- bxSlider CSS file -->
+    <link href="scripts/bxslider/css/jquery.bxslider.css" rel="stylesheet" />
+
+
+    <!-- RS5.0 Main Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
+
+    <!-- RS5.0 Layers and Navigation Styles -->
+    <link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="revolution/css/navigation.css">
+
+    <style>.tp-caption.black,.black{color:rgba(0,0,0,1.00);font-size:40px;line-height:40px;font-weight:500;font-style:normal;font-family:Roboto;padding:0px 0px 0px 0px;text-decoration:none;text-align:left;background-color:transparent;border-color:transparent;border-style:none;border-width:0px;border-radius:0px 0px 0px 0px;text-shadow:none}</style>
+    <style type="text/css">.intel-logo{text-align:center; font-size:16px; font-family:'Roboto'; line-height:1.1}.intel-logo sup{position:relative; top:2px}</style>
+    <style type="text/css">.hesperiden.tparrows{cursor:pointer;background:rgba(0,0,0,0.5);width:40px;height:40px;position:absolute;display:block;z-index:100;  border-radius:50%}.hesperiden.tparrows:hover{background:rgba(0,0,0,1)}.hesperiden.tparrows:before{font-family:"revicons";font-size:20px;color:rgb(255,255,255);display:block;line-height:40px;text-align:center}.hesperiden.tparrows.tp-leftarrow:before{content:"\e82c";  margin-left:-3px}.hesperiden.tparrows.tp-rightarrow:before{content:"\e82d";  margin-right:-3px}</style>
+
+
+    <!-- RS5.0 Core JS Files -->
+    <script type="text/javascript" src="revolution/js/jquery.themepunch.tools.min.js?rev=5.0"></script>
+    <script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js?rev=5.0"></script>
+
+
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>
+
+    <!-- Form validation -->
+    <script type="text/javascript" src="scripts/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="scripts/additional-methods.min.js"></script>
+    <script type="text/javascript" src="scripts/form-validate.js"></script>
+
+    <!-- LIGHTBOX -->
+
+    <link href="scripts/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="scripts/lightbox/js/lightbox-plus-jquery.min.js" rel="stylesheet">
+</head>
+<body>
+<a href="javascript:" id="return-to-top"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
+<header class="clearfix" id="inicio">
+    <div class="content-wrapper">
+        <h1 class="logo">
+            <a href="index.html"><img src="images/logo-exo.png" alt="EXO - Smartphones"></a>
+        </h1>
+        <nav class="main_menu" id="mk-main-navigation">
+            <ul class="main-navigation-ul dropdownJavascript" id="menu-exocel-main-nav">
+                <li><a href="#return-to-top">Inicio</a></li>
+                <li><a href="#smartphones">Smartphones</a></li>
+                <!--
+                <li><a href="spanky-a58.html">Spanky A58</a></li>
+                <li><a href="spanky-facil.html">Spanky Fácil</a></li>
+                -->
+                <li><a href="spanky-facil.html">Manual de Usuario</a></li>
+                <li><a href="http://www.exo.com.ar/soporte" target="_blank">Soporte</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+        <div id="menu-mobile" class="topNavigation">
+
+            <ul class="">
+
+                <li><a href="#return-to-top">Inicio</a></li>
+                <li><a href="#smartphones">Smartphones</a></li>
+                <!--
+                <li><a href="spanky-a58.html">Spanky A58</a></li>
+                <li><a href="spanky-facil.html">Spanky Fácil</a></li>
+                -->
+                <li><a href="spanky-facil.html">Manual de Usuario</a></li>
+                <li><a href="http://www.exo.com.ar/soporte" target="_blank">Soporte</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+
+            </ul>
+
+        </div>
+        <div>
+            <a href="#menu" class="box-shadow-menu">
+
+            </a>
+        </div>
+    </div>
+</header>
+<div id="rev_slider_11_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slider-height" data-alias="spanky-facil">
+    <!-- START REVOLUTION SLIDER 5.2.5.1 fullwidth mode -->
+    <div id="rev_slider_11_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.5.1">
+        <ul>	<!-- SLIDE  -->
+
+            <li data-index="rs-1" data-transition="slideleft" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="assets/video-slide2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="assets/slider-mc.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption   tp-resizeme tp-videolayer"
+                     id="slide-1-layer-1"
+                     data-x="549"
+                     data-y="253"
+                     data-transform_idle=""
+
+                     data-transform_in="opacity:0;s:300;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+                     data-ytid="xobFdsHxrUY" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;volume=100&hd=1&wmode=opaque&showinfo=0;;origin=http://local.wordpress.com;" data-videorate="1" data-videowidth="800" data-videoheight="465" data-videocontrols="none" data-videoloop="none" data-viodelargecontrols="off" data-autoplay="on"
+                     data-volume="100" data-forcerewind="on"
+                     style="z-index: 5;text-transform:left;"> </div>
+            </li>
+            <li data-index="rs-7" data-transition="slideleft" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="assets/SmartphoneEXO_SLIDER_02-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="assets/SmartphoneEXO_SLIDER_02.jpg"  alt="" title="SmartphoneEXO_SLIDER_02"  width="1360" height="668" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-7-layer-1"
+                     data-x="65"
+                     data-y="292"
+                     data-width="['none','none','none','none']"
+                     data-height="['none','none','none','none']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 5;"><img src="assets/spanky-facil-big.png" alt="" width="373" height="605" data-ww="373" data-hh="605" data-no-retina> </div>
+
+                <!-- LAYER NR. 2 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-7-layer-2"
+                     data-x="452"
+                     data-y="316"
+                     data-width="['none','none','none','none']"
+                     data-height="['none','none','none','none']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 6;"><img src="assets/spanky-facil-logo.png" alt="" width="545" height="108" data-ww="545" data-hh="108" data-no-retina> </div>
+                <!-- LAYER NR. 3 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-7-layer-3"
+                     data-x="464"
+                     data-y="446"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 7; white-space: nowrap; font-size: 26px; line-height: 26px; font-weight: 400; color: rgba(10, 10, 10, 1.00);font-family:Raleway;">Un celular smartphone ideado  </div>
+                <!-- LAYER NR. 4 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-7-layer-4"
+                     data-x="465"
+                     data-y="481"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 8; white-space: nowrap; font-size: 26px; line-height: 26px; font-weight: 400; color: rgba(10, 10, 10, 1.00);font-family:Raleway;">especialmente para hacer fácil su</div>
+                <!-- LAYER NR. 5 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-7-layer-5"
+                     data-x="465"
+                     data-y="518"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 9; white-space: nowrap; font-size: 26px; line-height: 26px; font-weight: 400; color: rgba(10, 10, 10, 1.00);font-family:Raleway;">uso, orientado a los adultos</div>
+
+                <!-- LAYER NR. 6 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-7-layer-6"
+                     data-x="466"
+                     data-y="552"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 10; white-space: nowrap; font-size: 26px; line-height: 26px; font-weight: 400; color: rgba(10, 10, 10, 1.00);font-family:Raleway;">mayores o personas con
+                </div>
+
+                <!-- LAYER NR. 7 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-7-layer-7"
+                     data-x="467"
+                     data-y="586"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 11; white-space: nowrap; font-size: 26px; line-height: 26px; font-weight: 400; color: rgba(10, 10, 10, 1.00);font-family:Raleway;">disminución visual.
+                </div>
+                <!-- LAYER NR. 8 -->
+                <a class="tp-caption rev-btn "
+                   href="spanky-facil-4g.html" id="slide-7-layer-9"
+                   data-x="467"
+                   data-y="638"
+                   style="z-index: 12; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 500; color: rgba(255, 255, 255, 1.00);font-family:Roboto;background-color:rgba(190, 39, 34, 1.00);padding:20px 10px 20px 10px;border-color:rgba(0, 0, 0, 1.00);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">CLICK AQUI PARA VER MAS INFO
+                </a>
+                <!-- LAYER NR. 9 -->
+                <a class="tp-caption rev-btn "
+                   href="http://spankyfacil.exo.com.ar/appmanual/EXO-BIGLauncher-Manual-01.pdf" target="_blank"			 id="slide-7-layer-9"
+                   data-x="470"
+                   data-y="726"
+                    style="z-index: 13; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 500; color: rgba(255, 255, 255, 1.00);font-family:Roboto;text-align:center;background-color:rgba(76, 76, 78, 1.00);padding:20px 10px 20px 10px;border-color:rgba(0, 0, 0, 1.00);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">CLICK AQUI PARA DESCARGAR<br>
+                    EL MANUAL DE USUARIO
+                </a>
+
+            </li>
+            <li data-index="rs-8" data-transition="slideleft" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="assets/video-slide2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="assets/video-slide2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption   tp-resizeme tp-videolayer"
+                     id="slide-8-layer-1"
+                     data-x="549"
+                     data-y="253"
+                     data-transform_idle=""
+
+                     data-transform_in="opacity:0;s:300;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+                     data-ytid="GxBLWEoTtFI" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;volume=100&hd=1&wmode=opaque&showinfo=0;;origin=http://local.wordpress.com;" data-videorate="1" data-videowidth="800" data-videoheight="465" data-videocontrols="none" data-videoloop="none" data-viodelargecontrols="off"			data-autoplay="on"
+                     data-volume="100" data-forcerewind="on"
+                     style="z-index: 5;text-transform:left;"> </div>
+            </li>
+            <!-- SLIDE  -->
+            <!-- SLIDE  -->
+            <li data-index="rs-2" data-transition="slideleft" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="assets/exo-bg-1-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="assets/exo-bg-1.png"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-2-layer-1"
+                     data-x="center" data-hoffset="253"
+                     data-y="center" data-voffset="-150"
+                     data-width="auto"
+                     data-height="auto"
+                     data-transform_idle=""
+
+                     data-transform_in="opacity:0;s:300;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 5; white-space: nowrap;text-transform:left;"><img class=" size-full wp-image-6416 exo-spanky-logo" src="http://smartphone.exo.com.ar/wp-content/uploads/2015/09/Spanky-logo.png" alt="Spanky-logo" width="323" height="123" />
+                </div>
+
+                <!-- LAYER NR. 2 -->
+                <div class="tp-caption black   tp-resizeme"
+                     id="slide-2-layer-2"
+                     data-x="1023"
+                     data-y="500"
+                     data-width="auto"
+                     data-height="auto"
+                     data-transform_idle=""
+
+                     data-transform_in="opacity:0;s:300;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+
+                     style="border-width: 0;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin: 0;
+    max-height: none;
+    max-width: none;
+    min-height: 0;
+    min-width: 0;
+    opacity: 1;
+    padding: 0;
+    transform: translate3d(0px, 0px, 0px);
+    transform-origin: 50% 50% 0;
+    transition: none 0s ease 0s ;
+    visibility: inherit;
+    white-space: nowrap;
+    z-index: 6;"><p>El balance perfecto de las características <br>indispensables más el toque distintivo que vos <br>buscás. Sé diferente, atrevete a Spanky.<p> </div>
+
+                <!-- LAYER NR. 3 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-2-layer-3"
+                     data-x="453"
+                     data-y="209"
+                     data-width=""
+                     data-height=""
+                     data-transform_idle=""
+
+                     data-transform_in="opacity:0;s:300;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 7;text-transform:left;"><img src="assets/imagen-home_03.png" alt="" width="494" height="632" data-no-retina> </div>
+
+                <!-- LAYER NR. 4 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-2-layer-4"
+                     data-x="1089"
+                     data-y="710"
+                     data-width="auto"
+                     data-height="auto"
+                     data-transform_idle=""
+
+                     data-transform_in="opacity:0;s:300;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 8;text-transform:left;"><img src="assets/4g-logo.png" alt="" width="134" height="125" data-ww="80" data-hh="75" data-no-retina> </div>
+
+                <!-- LAYER NR. 5 -->
+                <div class="tp-caption black   tp-resizeme"
+                     id="slide-2-layer-5"
+                     data-x="1021"
+                     data-y="600"
+                     data-width="auto"
+                     data-height="auto"
+                     data-transform_idle=""
+
+                     data-transform_in="opacity:0;s:300;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+
+                     style="border-width: 0;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin: 0;
+    max-height: none;
+    max-width: none;
+    min-height: 0;
+    min-width: 0;
+    opacity: 1;
+    padding: 0;
+    transform: translate3d(0px, 0px, 0px);
+    transform-origin: 50% 50% 0;
+    transition: none 0s ease 0s ;
+    visibility: inherit;
+    white-space: nowrap;
+    z-index: 6;"><p>El primer smartphone* <br>
+                    con procesador Intel<sup>®</sup> Atom<sup>™</sup> X3.</p> </div>
+            </li>
+        </ul>
+        <div class="tp-bannertimer" style="height: 5px; background-color: rgba(0, 0, 0, 0.15);"></div>	</div>
+</div><!-- END REVOLUTION SLIDER -->
+<section id="smartphones" class="smartphones">
+    <div class="left">
+        <img src="images/spanky-facil-4g.png" alt="Spanky Fácil" />
+        <h3>Smartphone EXO® Spanky <strong>FÁCIL 4G</strong></h3>
+        <p><strong>Ideal para Adultos Mayores.</strong></p>
+        <p>Configurable a tu gusto y conveniencia.</p>
+        <a href="spanky-facil-4g.html" class="more">Conocer Más</a>
+    </div>
+    <div class="right">
+        <img src="images/spanky-4g.png" alt="Spanky A58" />
+        <h3>Smartphone EXO® Spanky <strong>4G</strong></h3>
+        <p>El balance perfecto de las características
+            indispensables más el toque distintivo que vos
+            buscás. <strong>Sé diferente, atrevete a Spanky</strong>.</p>
+        <a href="spanky-4g.html" class="more">Conocer Más</a>
+    </div>
+</section>
+<section id="smartphones" class="other-smartphones">
+  <div class="section-title">
+    <h4>Modelos Anteriores</h4>
+  </div>
+    <div class="left">
+      <ul class="clearfix">
+        <a href="spanky-facil.html">
+        <li class="first"><img src="images/spanky-facil.png" alt="Spanky Fácil" /></li>
+        <li class="second"><h3>Smartphone EXO® Spanky <strong>FÁCIL</strong></h3></li>
+        </a>
+      </ul>
+    </div>
+    <div class="right">
+      <ul class="clearfix">
+        <a href="spanky-a58.html">
+        <li class="first"><img src="images/spanky-a58.png" alt="Spanky A58" /></li>
+        <li class="second"><h3>Smartphone EXO® Spanky <strong>A58</strong></h3></li>
+        </a>
+      </ul>
+    </div>
+</section>
+<section class="contact" id="contacto">
+    <div class="content-wrapper">
+        <div class="main-content">
+            <h2>Contacto</h2>
+            <h5>Dejános tus datos</h5>
+
+            <form id="contact-form" class="wpcf7-form" method="post" autocomplete="off">
+
+                <div class="exo-form">
+                    <br>
+                    <span class="wpcf7-form-control-wrap exo-nombre"><input type="text" placeholder="* NOMBRE:" class="exo-input" size="40" value="" name="exoNombre" id="exo-nombre" ></span>
+                    <span class="wpcf7-form-control-wrap exo-email"><input type="email" placeholder="* MAIL:" class="exo-input" size="40" value="" name="exoEmail" id="exo-email"></span>
+                    <span class="wpcf7-form-control-wrap exo-tel"><input type="tel" placeholder="* TEL:" class="exo-input" size="40" value="" name="exoTel" id="exo-tel"></span>
+                    <span class="wpcf7-form-control-wrap exo-mensaje"><textarea placeholder="* CONSULTA:" class="exo-textarea" rows="10" cols="40" name="exoMensaje" id="exo-mensaje"></textarea></span>
+                    <br>
+                    <div class="g-recaptcha" data-sitekey="6LfS8g0UAAAAADg1j_afrz5NwbVj0XCejNLduI_M"></div>
+                    <div class="captcha-error">
+
+                    </div>
+                    <input type="submit" class="exo-submit" value="ENVIAR">
+                    <div id="spinner"><i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i></div>
+                </div>
+            </form>
+            <div class="message-wrapper">
+                <div class="message">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+<footer>
+    <div class="content-wrapper">
+        <div id="footer-bottom">
+            <div class="container clearfix">
+                <ul>
+                    <li class="no-social"><a target="_blank" href="https://goo.gl/maps/QBkUmfx4Ewp"><i aria-hidden="true" class="fa fa-map-marker"></i>Av. Chiclana 3.444</a></li>
+                    <li class="no-social"><a href="tel:0810-1222-396"><i aria-hidden="true" class="fa fa-phone"></i>0810-1222-396</a></li>
+                    <li class="no-social"><a href="mailto: hola@exo.com.ar;"><i aria-hidden="true" class="fa fa-envelope-o"></i>hola@exo.com.ar</a></li>
+                    <li>
+                        <ul class="redes">
+                            <li><a target="_blank" href="https://www.facebook.com/exo.oficial/"><i aria-hidden="true" class="fa fa-facebook-square fa-2x"></i></a></li>
+                            <li><a target="_blank" href="https://twitter.com/exoargentina"><i aria-hidden="true" class="fa fa-twitter-square fa-2x"></i></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/exo.oficial/"><i aria-hidden="true" class="fa fa-instagram fa-2x"></i></a></li>
+                            <li><a target="_blank" href="https://www.youtube.com/c/exoaroficial"><i aria-hidden="true" class="fa fa-youtube-square fa-2x"></i></a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="scripts/lightbox/dist/js/lightbox.js"></script>
+
+<script>
+
+    $('.box-shadow-menu').click(function() {
+        $('#menu-mobile').toggle();
+            return false;
+    });
+
+</script>
+
+<script>
+    $('.topNavigation ul li a').on("click", function(){
+    $('#menu-mobile').slideUp();
+});
+</script>
+
+</body>
+</html>

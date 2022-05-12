@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+   <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="format-detection" content="telephone=no">
+    <title itemprop="name">Smartphone EXO Spanky - Se Diferente, Atrévete a Spanky</title>
+    <link rel="shortcut icon" href="http://smartphone.exo.com.ar/wp-content/uploads/2015/11/favicon.ico"  />
+    <link href='style.css' rel='stylesheet' type='text/css'>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="scripts/modules.js"></script>
+
+
+    <!-- IMPORT GOOGLE FONTS -->
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- IMPORT FONT AWESOME -->
+
+    <script src="https://use.fontawesome.com/7f657b99b7.js"></script>
+
+
+    <!-- LIGHTBOX -->
+
+    <link href="scripts/lightbox/dist/css/lightbox.min.css" rel="stylesheet">
+
+
+    <!-- bxSlider Javascript file -->
+    <script src="scripts/bxslider/js/jquery.bxslider.js"></script>
+    <script src="scripts/bxslider/vendor/jquery.easing.1.3.js"></script>
+    <script src="scripts/bxslider/vendor/jquery.fitvids.js"></script>
+
+    <!-- bxSlider CSS file -->
+    <link href="scripts/bxslider/css/jquery.bxslider.css" rel="stylesheet" />
+
+
+    <!-- RS5.0 Main Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
+
+    <!-- RS5.0 Layers and Navigation Styles -->
+    <link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="revolution/css/navigation.css">
+
+    <!-- RS5.0 Core JS Files -->
+    <script type="text/javascript" src="revolution/js/jquery.themepunch.tools.min.js?rev=5.0"></script>
+    <script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js?rev=5.0"></script>
+
+
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>
+
+    <!-- Form validation -->
+    <script type="text/javascript" src="scripts/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="scripts/additional-methods.min.js"></script>
+    <script type="text/javascript" src="scripts/form-validate.js"></script>
+
+    <!-- LIGHTBOX -->
+
+    <link href="scripts/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="scripts/lightbox/js/lightbox-plus-jquery.min.js" rel="stylesheet">
+</head>
+<body class="spanky-facil">
+<a href="javascript:" id="return-to-top"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
+<header class="clearfix" id="inicio">
+    <div class="content-wrapper">
+        <h1 class="logo">
+            <a href="index.html"><img src="images/logo-exo.png" alt="EXO - Smartphones"></a>
+        </h1>
+        <nav class="main_menu" id="mk-main-navigation">
+            <ul class="main-navigation-ul dropdownJavascript" id="menu-exocel-main-nav">
+                <li><a href="#return-to-top">Inicio</a></li>
+                <li><a href="index.html#smartphones">Smartphones</a></li>
+                <!--
+                <li><a href="spanky-a58.html">Spanky A58</a></li>
+                <li><a href="spanky-facil.html">Spanky Fácil</a></li>
+                -->
+                <li><a href="spanky-facil.html">Manual de Usuario</a></li>
+                <li><a href="http://www.exo.com.ar/soporte" target="_blank">Soporte</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+        <div id="menu-mobile" class="topNavigation">
+
+            <ul class="">
+
+                <li><a href="#return-to-top">Inicio</a></li>
+                <li><a href="index.html#smartphones">Smartphones</a></li>
+                <!--
+                <li><a href="spanky-a58.html">Spanky A58</a></li>
+                <li><a href="spanky-facil.html">Spanky Fácil</a></li>
+                -->
+                <li><a href="spanky-facil.html">Manual de Usuario</a></li>
+                <li><a href="http://www.exo.com.ar/soporte" target="_blank">Soporte</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+
+            </ul>
+
+        </div>
+        <div>
+            <a href="#menu" class="box-shadow-menu">
+
+            </a>
+        </div>
+    </div>
+</header>
+<!--<header class="clearfix" id="inicio">
+    <div class="content-wrapper">
+        <h1 class="logo">
+            <a href="index.html"><img src="images/logo-exo.png" alt="EXO - Smartphones"></a>
+        </h1>
+        <nav class="main_menu" id="mk-main-navigation">
+            <ul class="main-navigation-ul dropdownJavascript" id="menu-exocel-main-nav">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="#explain">Cómo funciona</a></li>
+                <li><a href="spanky-a58.html">Spanky A58</a></li>
+                <li class="manual"><a href="http://spankyfacil.exo.com.ar/appmanual/">Manual de Usuario</a></li>
+                <li><a href="http://www.exo.com.ar/soporte" target="_blank">Soporte</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+
+        <div id="menu-mobile" class="topNavigation">
+
+            <ul class="">
+
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="#explain">Cómo funciona</a></li>
+                <li><a href="spanky-a58.html">Spanky A58</a></li>
+                <li class="manual"><a href="http://spankyfacil.exo.com.ar/appmanual/">Manual de Usuario</a></li>
+                <li><a href="http://www.exo.com.ar/soporte" target="_blank">Soporte</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+
+            </ul>
+
+        </div>
+        <div>
+            <a href="#menu" class="box-shadow-menu">
+
+            </a>
+        </div>
+
+    </div>
+</header>-->
+<div id="rev_slider_11_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slider-height slider-facil" data-alias="spanky-facil">
+    <!-- START REVOLUTION SLIDER 5.2.5.1 fullwidth mode -->
+    <div id="rev_slider_11_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.5.1">
+        <ul>	<!-- SLIDE  -->
+            <li data-index="rs-5" data-transition="slideleft" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="assets/slider-mc-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="assets/slider-mc.jpg"  alt="" title="slider-mc"  width="1854" height="912" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption   tp-resizeme tp-videolayer"
+                     id="slide-5-layer-1"
+                     data-x="549"
+                     data-y="253"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:300;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+                     data-ytid="xobFdsHxrUY" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;volume=0&hd=1&wmode=opaque&showinfo=0;;origin=http://local.wordpress.com;" data-videorate="1" data-videowidth="800" data-videoheight="465" data-videocontrols="none" data-videoloop="none"			data-autoplay="off"
+                     data-volume="0" data-forcerewind="on"
+                     style="z-index: 5;"> </div>
+            </li>
+            <!-- SLIDE  -->
+            <li data-index="rs-3" data-transition="slideright" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="assets/backgriybd_02-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="assets/backgriybd_02.jpg"  alt=""  data-bgposition="left top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-3-layer-1"
+                     data-x="160"
+                     data-y="225"
+                     data-width="['none','none','none','none']"
+                     data-height="['none','none','none','none']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="x:left;s:2000;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 5;"><img src="assets/old-man.png" alt="" width="385" height="611" data-ww="435px" data-hh="691px" data-no-retina> </div>
+
+                <!-- LAYER NR. 2 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-3-layer-2"
+                     data-x="748"
+                     data-y="118"
+                     data-width="['none','none','none','none']"
+                     data-height="['none','none','none','none']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="y:top;s:2100;e:Linear.easeNone;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 6;"><img src="assets/spanky-facil-logo.png" alt="" width="545" height="108" data-ww="827px" data-hh="164px" data-no-retina> </div>
+
+                <!-- LAYER NR. 3 -->
+                <div class="tp-caption mediumboldorange   tp-resizeme"
+                     id="slide-3-layer-3"
+                     data-x="597"
+                     data-y="322"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="x:right;s:2500;e:Linear.easeNone;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="words"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+                     data-elementdelay="0.2"
+
+                     style="z-index: 7; white-space: nowrap; font-size: 50px; color: rgba(0, 0, 0, 1.00);border-color:rgba(255, 214, 88, 1.00);">¡Configurable a tu gusto y conveniencia! </div>
+
+                <!-- LAYER NR. 4 -->
+                <div class="tp-caption boton-exo   tp-resizeme"
+                     id="slide-3-layer-10"
+                     data-x="747"
+                     data-y="804"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="y:bottom;s:3000;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-actions='[{"event":"click","action":"jumptoslide","slide":"next","delay":""}]'
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 8; white-space: nowrap;background-color:rgba(155, 47, 42, 1.00);border-color:rgba(255, 255, 255, 1.00);"><a href='#'>Click aquí para ver más info</a> </div>
+
+                <!-- LAYER NR. 5 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-3-layer-13"
+                     data-x="586"
+                     data-y="428"
+                     data-width="['none','none','none','none']"
+                     data-height="['none','none','none','none']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="y:-50px;opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 9;"><img src="assets/phone.jpg" alt="" width="334" height="258" data-ww="110px" data-hh="85px" data-no-retina> </div>
+
+                <!-- LAYER NR. 6 -->
+                <div class="tp-caption mediumboldorange   tp-resizeme"
+                     id="slide-3-layer-15"
+                     data-x="708"
+                     data-y="434"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:2500;e:Linear.easeNone;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="words"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+                     data-elementdelay="0.2"
+
+                     style="z-index: 10; white-space: nowrap; font-weight: 600; color: rgba(0, 0, 0, 1.00);border-color:rgba(255, 214, 88, 1.00);">Funciones de llamada,  </div>
+
+                <!-- LAYER NR. 7 -->
+                <div class="tp-caption mediumboldorange   tp-resizeme"
+                     id="slide-3-layer-16"
+                     data-x="708"
+                     data-y="471"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:2500;e:Linear.easeNone;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="words"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+                     data-elementdelay="0.2"
+
+                     style="z-index: 11; white-space: nowrap; font-weight: 600; color: rgba(0, 0, 0, 1.00);border-color:rgba(255, 214, 88, 1.00);"><i>parpadea si hay llamadas perdidas</i> </div>
+
+                <!-- LAYER NR. 8 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-3-layer-17"
+                     data-x="1217"
+                     data-y="423"
+                     data-width="['none','none','none','none']"
+                     data-height="['none','none','none','none']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="y:-50px;opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 12;"><img src="assets/photo.jpg" alt="" width="319" height="255" data-ww="110px" data-hh="85px" data-no-retina> </div>
+
+                <!-- LAYER NR. 9 -->
+                <div class="tp-caption mediumboldorange   tp-resizeme"
+                     id="slide-3-layer-18"
+                     data-x="1338"
+                     data-y="448"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:2500;e:Linear.easeNone;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="words"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+                     data-elementdelay="0.2"
+
+                     style="z-index: 13; white-space: nowrap; font-weight: 600; color: rgba(0, 0, 0, 1.00);border-color:rgba(255, 214, 88, 1.00);">Cámara de foto/video </div>
+
+                <!-- LAYER NR. 10 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-3-layer-20"
+                     data-x="589"
+                     data-y="658"
+                     data-width="['none','none','none','none']"
+                     data-height="['none','none','none','none']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="y:-50px;opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 14;"><img src="assets/sos.jpg" alt="" width="319" height="244" data-ww="110px" data-hh="85px" data-no-retina> </div>
+
+                <!-- LAYER NR. 11 -->
+                <div class="tp-caption mediumboldorange   tp-resizeme"
+                     id="slide-3-layer-21"
+                     data-x="710"
+                     data-y="668"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:2500;e:Linear.easeNone;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="words"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+                     data-elementdelay="0.2"
+
+                     style="z-index: 15; white-space: nowrap; font-weight: 600; color: rgba(0, 0, 0, 1.00);border-color:rgba(255, 214, 88, 1.00);">Números de emergencia,  </div>
+
+                <!-- LAYER NR. 12 -->
+                <div class="tp-caption mediumboldorange   tp-resizeme"
+                     id="slide-3-layer-22"
+                     data-x="710"
+                     data-y="708"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:2500;e:Linear.easeNone;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="words"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+                     data-elementdelay="0.2"
+
+                     style="z-index: 16; white-space: nowrap; font-weight: 600; color: rgba(0, 0, 0, 1.00);border-color:rgba(255, 214, 88, 1.00);"><i>envío automático de mensajes y ubicación.</i> </div>
+
+                <!-- LAYER NR. 13 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-3-layer-23"
+                     data-x="1220"
+                     data-y="547"
+                     data-width="['none','none','none','none']"
+                     data-height="['none','none','none','none']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="y:-50px;opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 17;"><img src="assets/gallery.jpg" alt="" width="311" height="255" data-ww="110px" data-hh="85px" data-no-retina> </div>
+
+                <!-- LAYER NR. 14 -->
+                <div class="tp-caption mediumboldorange   tp-resizeme"
+                     id="slide-3-layer-24"
+                     data-x="1344"
+                     data-y="573"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:2500;e:Linear.easeNone;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="words"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+                     data-elementdelay="0.2"
+
+                     style="z-index: 18; white-space: nowrap; font-weight: 600; color: rgba(0, 0, 0, 1.00);border-color:rgba(255, 214, 88, 1.00);">Galería de Fotos </div>
+
+                <!-- LAYER NR. 15 -->
+                <div class="tp-caption   tp-resizeme"
+                     id="slide-3-layer-25"
+                     data-x="587"
+                     data-y="545"
+                     data-width="['none','none','none','none']"
+                     data-height="['none','none','none','none']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="y:-50px;opacity:0;s:300;e:Power2.easeInOut;"
+                     data-transform_out="opacity:0;s:300;"
+                     data-start="500"
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 19;"><img src="assets/apps.jpg" alt="" width="311" height="244" data-ww="110px" data-hh="85px" data-no-retina> </div>
+
+                <!-- LAYER NR. 16 -->
+                <div class="tp-caption mediumboldorange   tp-resizeme"
+                     id="slide-3-layer-26"
+                     data-x="708"
+                     data-y="576"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="opacity:0;s:2500;e:Linear.easeNone;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="words"
+                     data-splitout="none"
+                     data-responsive_offset="on"
+
+                     data-elementdelay="0.2"
+
+                     style="z-index: 20; white-space: nowrap; font-weight: 600; color: rgba(0, 0, 0, 1.00);border-color:rgba(255, 214, 88, 1.00);">Aplicaciones instaladas </div>
+
+                <!-- LAYER NR. 17 -->
+                <div class="tp-caption boton-exo   tp-resizeme"
+                     id="slide-3-layer-27"
+                     data-x="1269"
+                     data-y="803"
+                     data-width="['auto']"
+                     data-height="['auto']"
+                     data-transform_idle="o:1;"
+
+                     data-transform_in="y:bottom;s:3000;e:Power3.easeInOut;"
+                     data-transform_out="auto:auto;s:300;"
+                     data-start="500"
+                     data-splitin="none"
+                     data-splitout="none"
+                     data-actions='[{"event":"click","action":"jumptoslide","slide":"next","delay":""}]'
+                     data-responsive_offset="on"
+
+
+                     style="z-index: 21; white-space: nowrap;background-color:rgba(155, 47, 42, 1.00);border-color:rgba(255, 255, 255, 1.00);"><a href='http://spankyfacil.exo.com.ar/appmanual/'>DESCARGAR MANUAL DE USUARIO</a> </div>
+            </li>
+        </ul>
+        <div class="tp-bannertimer" style="height: 5px; background-color: rgba(0, 0, 0, 0.15);"></div>	</div>
+</div><!-- END REVOLUTION SLIDER -->
+<section class="techs" id="techs">
+    <div class="content-wrapper">
+        <div class="left content">
+            <h4 class="h4-facil">Smartphone EXO<span style="font-size: 0.5em; vertical-align: top;">®</span></h4>
+            <h4 class="h4-facil">Spanky Fácil 4G</h4>
+            <br>
+            <h6>SKU 1341</h6>
+            <ul>
+                <li>Procesador SC9832 Quad Core</li>
+                <li>Dual SIM</li>
+                <li>1GB de Memoria</li>
+                <li>16GB de Almacenamiento</li>
+                <li>Android 6.0 Marshmallow</li>
+                <li>Pantalla IPS de 5" Multitouch</li>
+                <li>Resolución 960 x 480</li>
+                <li>Cámara frontal 2MP</li>
+                <li>Cámara trasera 5MP</li>
+                <li>Wifi 802.11 b/g/n</li>
+                <li>Bluetooth 4.0</li>
+                <li>Radio FM - GPS</li>
+                <li>3G / 4G</li>
+            </ul>
+        </div>
+        <div class="right image">
+            <img src="images/spanky-facil4g-big.png" alt="Spany - Especificaciones Técnicas" width="300"/>
+        </div>
+    </div>
+    <a href="#explain" class="scroll-down"><i class="fa fa-chevron-down" aria-hidden="true"></i></a>
+</section>
+<section class="explain" id="explain">
+    <div class="content-wrapper">
+        <div class="left image">
+            <img src="images/spanky-facil-info_03.png" alt="Spany - Especificaciones Técnicas" />
+            <ul id="slider1">
+                <li><a href="images/gallery-facil/0.jpg" data-lightbox="gallery-facil"><img src="images/gallery-facil/0.jpg" /></a></li>
+                <li><a href="images/gallery-facil/1.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/1.png" /></a></li>
+                <li><a href="images/gallery-facil/2.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/2.png" /></a></li>
+                <li><a href="images/gallery-facil/3.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/3.png" /></a></li>
+                <li><a href="images/gallery-facil/4.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/4.png" /></a></li>
+                <li><a href="images/gallery-facil/5.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/5.png" /></a></li>
+                <li><a href="images/gallery-facil/6.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/6.png" /></a></li>
+                <li><a href="images/gallery-facil/7.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/7.png" /></a></li>
+                <li><a href="images/gallery-facil/8.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/8.png" /></a></li>
+                <li><a href="images/gallery-facil/9.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/9.png" /></a></li>
+                <li><a href="images/gallery-facil/10.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/10.png" /></a></li>
+                <li><a href="images/gallery-facil/11.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/11.png" /></a></li>
+                <li><a href="images/gallery-facil/12.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/12.png" /></a></li>
+                <li><a href="images/gallery-facil/13.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/13.png" /></a></li>
+                <li><a href="images/gallery-facil/14.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/14.png" /></a></li>
+                <li><a href="images/gallery-facil/15.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/15.png" /></a></li>
+                <li><a href="images/gallery-facil/16.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/16.png" /></a></li>
+                <li><a href="images/gallery-facil/17.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/17.png" /></a></li>
+                <li><a href="images/gallery-facil/18.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/18.png" /></a></li>
+                <li><a href="images/gallery-facil/19.png" data-lightbox="gallery-facil"><img src="images/gallery-facil/19.png" /></a></li>
+            </ul>
+        </div>
+        <div class="right content">
+            <h5>Un marcador <strong>sencillo</strong> de usar.</h5>
+            <h6>Marque el número y presione el botón con el teléfono verde, aparecerán 3 opciones:</h6>
+            <ul>
+                <li class="clearfix"><img src="images/phone.jpg"/> <span><strong>Llamar</strong> <br/> Inicia la llamada.</span></li>
+                <li class="clearfix"><img src="images/sms.jpg"/> <span><strong>Mensaje</strong> <br/> Abre el editor de mensajes (SMS) con el número de destinatario ya incluído.</span></li>
+                <li class="clearfix"><img src="images/contact_03.jpg"/> <span><strong>Añadir Contacto</strong> <br/> Permite guardar el número como Contacto nuevo o actualizar uno ya existente.</span></li>
+            </ul>
+        </div>
+    </div>
+    <a href="#contacto" class="scroll-down"><i class="fa fa-chevron-down" aria-hidden="true"></i></a>
+</section>
+<section class="precio" id="precio">
+    <div class="content-wrapper">
+        <div class="main-content">
+
+
+
+
+            <h2>&iexcl;Lanzamiento a solo <strong>$2.999.-</strong> final!</h2>
+             <h5>Env&iacute;o a domicilio, sin recargos en todo el pa&iacute;s.</h5>
+             <p>&nbsp;<p>
+             <h5>Consultas e información sobre formas de pago al</h5>
+             <p>&nbsp;<p>
+				<h5>0810 1222 EXO (396) Opción 1</br>
+
+				Horario: de Lunes a Viernes de 8:30 a 17:30 hs</br>
+
+				o por email a: exoplan@exo.com.ar
+				<p>&nbsp;<p>
+
+				Para adquierir el Spanky Fácil en combinación con otros productos EXO, ingresar en:
+				<p>&nbsp;<p>
+                <a href="http://bnajubilados.tiendaexo.com/" title="Banco Nacion - Cartera Abierta" target="_blank">Banco Nación - Cartera Abierta</a>
+                </br>
+<a href="http://bnajubilados.tiendaexo.com/" title="Banco Nación - Jubilados" target="_blank">Banco Nación - Jubilados</a>
+                <p>&nbsp;<p>
+
+
+				Para adquirir sólo el Spanky Fácil on-line con planes de financiación especiales, ingresar en:
+                <p>&nbsp;<p>
+<a href="http://bancociudad.tiendaexo.com/" title="Banco Ciudad" target="_blank">Banco Ciudad</a>
+</br>
+
+<a href="http://bancoprovincia.tiendaexo.com/" title="Banco Provincia" target="_blank">Banco Provincia</a>
+</br>
+<a href="http://macro.tiendaexo.com/" title="Banco Macro" target="_blank">Banco Macro</a>
+</br>
+
+<a href="https://www.tiendanaranja.com/smartphone-exo-spanky-facil-4g-adultos-mayores-funda-de-regalo.html" title="Tarjeta Naranja - Tienda Naranja " target="_blank">Tarjeta Naranja - Tienda Naranja </a>
+</br>
+<a href="http://www.tiendaexo.com/" title="Tienda EXO" target="_blank">Tienda EXO</a>
+</h5>
+</br>
+</br>
+<h5>Todos los planes de financiación ingresando en:</h5>
+            <h5><a href="http://www.exo.com.ar/planes-de-financiacion" title="Planes de financiación" target="_blank">www.exo.com.ar</a></h5>
+
+        </div>
+    </div>
+    <a href="#contacto" class="scroll-down"><i class="fa fa-chevron-down" aria-hidden="true"></i></a>
+
+</section>
+<section class="contact" id="contacto">
+    <div class="content-wrapper">
+        <div class="main-content">
+            <h2>Contacto</h2>
+            <h5>Dejános tus datos</h5>
+
+            <form id="contact-form" class="wpcf7-form" method="post" autocomplete="off">
+
+                <div class="exo-form">
+                    <br>
+                    <span class="wpcf7-form-control-wrap exo-nombre"><input type="text" placeholder="* NOMBRE:" class="exo-input" size="40" value="" name="exoNombre" id="exo-nombre" ></span>
+                    <span class="wpcf7-form-control-wrap exo-email"><input type="email" placeholder="* MAIL:" class="exo-input" size="40" value="" name="exoEmail" id="exo-email"></span>
+                    <span class="wpcf7-form-control-wrap exo-tel"><input type="tel" placeholder="* TEL:" class="exo-input" size="40" value="" name="exoTel" id="exo-tel"></span>
+                    <span class="wpcf7-form-control-wrap exo-mensaje"><textarea placeholder="* CONSULTA:" class="exo-textarea" rows="10" cols="40" name="exoMensaje" id="exo-mensaje"></textarea></span>
+                    <input type="submit" class="exo-submit" value="ENVIAR">
+                    <div id="spinner"><i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i></div>
+                </div>
+            </form>
+            <div class="message-wrapper">
+                <div class="message">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+<footer>
+    <div class="content-wrapper">
+        <div id="footer-bottom">
+            <div class="container clearfix">
+                <ul>
+                    <li class="no-social"><a target="_blank" href="https://goo.gl/maps/QBkUmfx4Ewp"><i aria-hidden="true" class="fa fa-map-marker"></i>Av. Chiclana 3.444</a></li>
+                    <li class="no-social"><a href="tel:0810-1222-396"><i aria-hidden="true" class="fa fa-phone"></i>0810-1222-396</a></li>
+                    <li class="no-social"><a href="mailto: hola@exo.com.ar;"><i aria-hidden="true" class="fa fa-envelope-o"></i>hola@exo.com.ar</a></li>
+                    <li>
+                        <ul class="redes">
+                            <li><a target="_blank" href="https://www.facebook.com/exo.oficial/"><i aria-hidden="true" class="fa fa-facebook-square fa-2x"></i></a></li>
+                            <li><a target="_blank" href="https://twitter.com/exoargentina"><i aria-hidden="true" class="fa fa-twitter-square fa-2x"></i></a></li>
+                            <li><a target="_blank" href="https://instagram.com/exo"><i aria-hidden="true" class="fa fa-instagram fa-2x"></i></a></li>
+                            <li><a target="_blank" href="https://www.youtube.com/c/exoaroficial"><i aria-hidden="true" class="fa fa-youtube-square fa-2x"></i></a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="scripts/lightbox/dist/js/lightbox.js"></script>
+
+<script>
+
+    $('.box-shadow-menu').click(function() {
+        $('#menu-mobile').toggle();
+            return false;
+    });
+
+</script>
+
+<script>
+    $('.topNavigation ul li a').on("click", function(){
+    $('#menu-mobile').slideUp();
+});
+</script>
+
+</body>
+</html>
